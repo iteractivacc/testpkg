@@ -1,0 +1,13 @@
+name = "testpkg"
+version = "your-version-here"
+
+include_path   = "include"
+libraries_path = "lib"
+binaries_path  = "bin"
+
+[windows]
+libraries = []
+binaries  = []
+
+[linux]
+libraries = []
